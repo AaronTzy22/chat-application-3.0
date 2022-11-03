@@ -1,0 +1,2 @@
+# chat-application-3.0
+FOR EDUCATIONAL PURPOSES ONLY
